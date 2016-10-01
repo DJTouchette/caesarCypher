@@ -1,24 +1,7 @@
 # Caesar
 
-**TODO: Add description**
+Simple program that encrypts a string given the shift value.
 
-## Installation
+## Pre-requesites
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add `caesar` to your list of dependencies in `mix.exs`:
-
-    ```elixir
-    def deps do
-      [{:caesar, "~> 0.1.0"}]
-    end
-    ```
-
-  2. Ensure `caesar` is started before your application:
-
-    ```elixir
-    def application do
-      [applications: [:caesar]]
-    end
-    ```
-
+Erlang and Elixir, that's it !
